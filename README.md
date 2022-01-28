@@ -1,38 +1,6 @@
-# create-svelte
+# 무엇을 만들것인지
+<img width="834" alt="스크린샷 2022-01-28 오후 5 51 58" src="https://user-images.githubusercontent.com/53929065/151516392-09835845-16c9-477e-b9ee-fbf45298d087.png">
+위 이미지와 같은 `Aside Menu` 를 만든다.
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm init svelte@next
-
-# create a new project in my-app
-npm init svelte@next my-app
-```
-
-> Note: the `@next` is temporary
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:
-
-```bash
-npm run build
-```
-
-> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.
+# Preview
+![ezgif-5-68bd2d6b3f](https://user-images.githubusercontent.com/53929065/151517017-eb70a801-7bd3-491c-8564-db648ab49bec.gif)
