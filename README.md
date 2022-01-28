@@ -8,3 +8,6 @@
 # To-Do
 - [ ] `src/lib/AsideMenuItem.svelte` HOC 개념 보고 icon 다르게 출력 하는 부분 리팩토링  
 - [ ] `src/index.svelte` 반복되는 부분 Component화 하여 리팩토링
+
+## Todo Ref
+[HOC in svlete](https://medium.com/@zachhardesty/svelte-how-to-guide-higher-order-components-hoc-forwarding-props-and-class-names-712aedd24a0a)
