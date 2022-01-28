@@ -4,3 +4,7 @@
 
 # Preview
 ![ezgif-5-68bd2d6b3f](https://user-images.githubusercontent.com/53929065/151517017-eb70a801-7bd3-491c-8564-db648ab49bec.gif)
+
+# To-Do
+[] `src/lib/AsideMenuItem.svelte` HOC 개념 보고 icon 다르게 출력 하는 부분 리팩토링
+[] `src/index.svelte` 반복되는 부분 Component화 하여 리팩토링
